@@ -3,7 +3,7 @@ import cv2
 img = cv2.imread("LO/galaxy.jpg",0) #adding LO/ changed the type from NONE to numpy.ndarray (don't know why)
 
 print(type(img))
-#print(img)
+print(img)
 #print(img.shape)
 #print(img.ndim)
 
