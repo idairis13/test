@@ -8,7 +8,11 @@ print(img)
 #print(img.ndim)
 
 #resized_image = cv2.resize(img,(1000,500))
-cv2.imshow("Galaxy",img)
+#cv2.imshow("Galaxy",img)
 #cv2.waitKey()
 #cv2.destroyAllWindows()
 #print (cv2.__version__)
+
+
+
+#THIS IS ON THE BRANCH 'Mybranch'
